@@ -90,7 +90,7 @@ Setelah instalasi selesai:
 
    ![Tampilan Home Laravel](screenshots/Tampilan%20home.png)
 
-Jika halaman Laravel muncul, berarti instalasi berhasil! 🎉
+Jika halaman Laravel muncul, berarti instalasi berhasil! 
 
 ---
 
