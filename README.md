@@ -36,7 +36,7 @@ Terdapat dua cara untuk menginstal Laravel di Laragon:
 ###  Cara 1: Menggunakan Composer
 
 1. Klik menu **Terminal** di Laragon atau buka Command Prompt.  
-   ![Buka Terminal](./screenshots/terminal.png)
+   ![Buka Terminal](screenshots/terminal.png)
 
 2. Arahkan ke folder `www` Laragon:
 
@@ -51,7 +51,7 @@ Terdapat dua cara untuk menginstal Laravel di Laragon:
    ```
 
    Contoh jika nama proyek `test-laravel-rizki`:  
-   ![Perintah Composer](./screenshots/terminal%202.png)
+   ![Perintah Composer](screenshots/terminal%202.png)
 
 4. Tunggu proses instalasi hingga selesai.
 
@@ -61,13 +61,13 @@ Terdapat dua cara untuk menginstal Laravel di Laragon:
 
 1. Klik kanan icon Laragon di system tray.  
 2. Pilih menu: `Quick app > Laravel`.  
-   ![Quick App Laravel](./screenshots/quck%20app.png)
+   ![Quick App Laravel](screenshots/quck%20app.png)
 
 3. Masukkan nama proyek Laravel, misalnya: `test-laravel-rizki`.  
-   ![Input Nama Proyek](./screenshots/project%20name.png)
+   ![Input Nama Proyek](screenshots/project%20name.png)
 
 4. Laragon akan secara otomatis mengunduh dan menginstal Laravel.  
-   ![Proses Instalasi](./screenshots/tampilan%20cmd.png)
+   ![Proses Instalasi](screenshots/tampilan%20cmd.png)
 
 ---
 
@@ -88,7 +88,7 @@ Setelah instalasi selesai:
    http://test-laravel-rizki.test
    ```
 
-   ![Tampilan Home Laravel](./screenshots/Tampilan%20home.png)
+   ![Tampilan Home Laravel](screenshots/Tampilan%20home.png)
 
 Jika halaman Laravel muncul, berarti instalasi berhasil! 🎉
 
