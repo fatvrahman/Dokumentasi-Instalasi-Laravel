@@ -67,7 +67,7 @@ Terdapat dua cara untuk menginstal Laravel di Laragon:
    ![Input Nama Proyek](screenshots/project%20name.png)
 
 4. Laragon akan secara otomatis mengunduh dan menginstal Laravel.  
-   ![Proses Instalasi](screenshots/tampilan%20cmd.png)
+   ![Proses Instalasi](screenshots/instalasi.png)
 
 ---
 
