@@ -107,6 +107,6 @@ Sekarang Laravel sudah berhasil terinstal menggunakan Laragon. Anda bisa mulai m
 
 
 ####  Dibuat oleh: 
-Nama : [Rizki Faturahman]
-Kelas : [IF23F]
-NIM : [23416255201091]
+Nama : [Rizki Faturahman]  
+Kelas : [IF23F]  
+NIM : [23416255201091]  
